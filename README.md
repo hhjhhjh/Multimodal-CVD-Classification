@@ -42,5 +42,8 @@
 ---
 
 ## 🚀 모델 아키텍처 
-![MM-C-R 모델 아키텍처](images/diagram.png)
+<div align="center">
+  <img src="images/cv.png" width="1000"/><br/>
+  <span style="font-size:16px"><b>그림 1.</b> MM-C-R 모델 아키텍처</span>
+</div>
 
