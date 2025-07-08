@@ -1,5 +1,4 @@
 # 안저영상과 임상정보를 활용한 멀티모달 멀티태스크 딥러닝 기반 심혈관 질환 분류
-# Multimodal Multitask Deep Learning for CVD Classification Using Fundus Images and Clinical Data
 
 이 레포지토리는 안저영상(Fundus Image)과 임상정보(Clinical Data)를 함께 활용하여  
 심혈관 질환(CVD)을 예측하는 멀티모달 멀티태스크 딥러닝 모델을 구현한 프로젝트입니다.
@@ -43,4 +42,5 @@
 ---
 
 ## 🚀 모델 아키텍처 
+![MM-C-R 모델 아키텍처](images/diagram.png)
 
